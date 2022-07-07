@@ -10,6 +10,6 @@ Para acessar as aulas da disciplina, basta selecionar a `main` _branch_ acima, c
 
 ![Imagem](assets/branches.PNG)
 
-Cada _branch_ terá um conteúdo diferente e contará com o material para a aula, bem como o [_link_ para o Notion](https://swanky-tamarind-bf3.notion.site/C206-16e72a7aebd6465bb7c22d6123c8449e).
+Cada _branch_ terá um conteúdo diferente e contará com o material para a aula, bem como o [_link_ para o Notion](https://bio353.notion.site/C206-Lx-16e72a7aebd6465bb7c22d6123c8449e).
 
 Qualquer dúvida, estou à disposição! 😉
