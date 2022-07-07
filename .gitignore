@@ -1,3 +1,4 @@
 # Arquivos do IntelliJ
 .idea/
+out/
 *.iml
