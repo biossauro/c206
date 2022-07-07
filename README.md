@@ -10,3 +10,7 @@
 ## Exemplo
 
 ![Imagem](assets/exemplo.png)
+
+## Outro
+
+- [_Link_ para o Notion](https://bio353.notion.site/Polimorfismo-220025cae1644cd988ce7c43e3b721f9)
