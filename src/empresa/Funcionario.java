@@ -1,5 +1,7 @@
 package empresa;
 
-public interface Funcionario {
-    void receberSalario();
+public abstract class Funcionario {
+    protected String nome;
+
+    public abstract void receberSalario();
 }

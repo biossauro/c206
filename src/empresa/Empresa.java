@@ -11,10 +11,10 @@ public class Empresa {
     }
 
     public static void main(String[] args) {
-        Gerente gerente = new Gerente(10);
-        Vendedor vendedor = new Vendedor(7);
-        Vendedor vendedora = new Vendedor(9, "Roberta");
-        List<Funcionario> funcionarios = Arrays.asList(gerente, vendedor, vendedora);
+        Gerente g1 = new Gerente(10, "Menino Ney");
+        Vendedor v1 = new Vendedor(7, "Rainha Elizabeth");
+        Vendedor v2 = new Vendedor(5);
+        List<Funcionario> funcionarios = Arrays.asList(g1, v1, v2);
         listarFuncionarios(funcionarios);
     }
 }
