@@ -9,7 +9,7 @@
 
 ## Exemplo
 
-![Imagem](assets/exemplo_no_bg.png)
+<img src="assets/exemplo_no_bg.png" height="400"></img>
 
 ## Outro
 
