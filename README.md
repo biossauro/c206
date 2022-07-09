@@ -9,7 +9,7 @@
 
 ## Exemplo
 
-![Imagem](assets/exemplo.png)
+![Imagem](assets/exemplo_no_bg.png)
 
 ## Outro
 
