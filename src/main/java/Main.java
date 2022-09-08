@@ -7,9 +7,10 @@ public final class Main {
         int totalDisciplinas = 0;
         int totalAlunos = 0;
 
+        Scanner scanner = new Scanner(System.in);
         int operacao;
+
         do {
-            Scanner scanner = new Scanner(System.in);
             System.out.println("0 - Sair");
             System.out.println("1 - Novo Aluno");
             System.out.println("2 - Nova Disciplina");
@@ -113,5 +114,7 @@ public final class Main {
                 System.out.print("\n");
             }
         }
+
+        scanner.close();
     }
 }
